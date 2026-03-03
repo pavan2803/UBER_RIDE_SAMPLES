@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+rides.db
+cleaned_*.csv
+.DS_Store
+*.pyc
